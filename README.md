@@ -8,4 +8,6 @@
 * 
 
 ### Language Game instruction
-1. 
+1. Language game is puzzle game that can improve children intelligence
+2. Language game can use on the iphone 6/7/8/8 plus (8.0 version)
+3. Click run button and play language game
